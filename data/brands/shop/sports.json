@@ -409,6 +409,7 @@
         "include": [
           "au",
           "be",
+          "ca",
           "de",
           "es",
           "fr",
@@ -416,7 +417,8 @@
           "ie",
           "nl",
           "pt",
-          "sk"
+          "sk",
+          "us"
         ]
       },
       "matchNames": ["jd"],
